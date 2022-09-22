@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Movies App</string>
+    <string name="test">test</string>
+    <string name="test2">test_data</string>
+    <string name="button_text">search</string>
+    <string name="select_genre">Select Genre</string>
+    <string-array name="lst">
+        <item>Drama</item>
+        <item>Horror</item>
+        <item>Comedy</item>
+        <item>Thriller</item>
+        <item>Animation</item>
+        <item>Science Fiction</item>
+    </string-array>
+</resources>
